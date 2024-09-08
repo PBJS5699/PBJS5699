@@ -58,7 +58,6 @@ I'm a passionate Electrical and Computer Engineering & Biomedical Engineering st
 ## 📫 How to reach me
 
 - Email: phillip.baekk@gmail.com
-- Phone: (650) 906-6403
 - Location: Austin, TX
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
