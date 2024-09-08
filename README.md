@@ -50,6 +50,9 @@ I'm a passionate Electrical and Computer Engineering & Biomedical Engineering st
 - Developed a fully functioning mobile MVP using Dart and Flutter with Firebase backend
 - Led contract closings with 7 enterprise customers
 - Raised $21,000 in non-dilutive funding
+- [BoBo Website](https://www.boboapp.app/)
+- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/bobo-co-living-made-simple/id6470965926)
+- [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.boboapp.BoBo&hl=en_US)
 
 ### Cell Infiltration Analysis Program
 - Built and distributed a program currently used in 5 independent laboratories at UT Austin
