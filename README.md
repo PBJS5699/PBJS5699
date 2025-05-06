@@ -1,6 +1,6 @@
 # Hi there, I'm Phillip Baek 👋
 
-ECE & BME student at UT Austin focused on the intersection of technology and healthcare.
+ECE & BME student at UT Austin
 
 ## 🚀 Experience
 
